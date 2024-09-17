@@ -19,7 +19,7 @@
 3. Choose 'import existing maven project' option in eclipse. 
 <br> You can search for those steps online, just search 'how to import existing maven project in eclipse'. 
 
-4. Then import the database files in your MySQL database. Database files are provided [here](https://github.com/rid17pawar/HospitalManagement/tree/master/databaseFiles%20and%20demoLoginCredentials/hospitaldb).
+4. Then import the database files in your MySQL database. Database files are provided [here](https://github.com/RavulaGani/HCL-HMS/tree/master/HospitalManagement-master/databaseFiles%20and%20demoLoginCredentials/hospitaldb).
 <br> You can refer this video: https://youtu.be/9icY7xwXbJo
 
 5. You can then run this web-application on your Tomcat server. For login use the credentials provided in [this](https://github.com/RavulaGani/HCL-HMS/blob/master/HospitalManagement-master/databaseFiles%20and%20demoLoginCredentials/loginPasswordsForDemo.txt) file. (Select correct role and fill the Username and Password) 
