@@ -22,7 +22,7 @@
 4. Then import the database files in your MySQL database. Database files are provided [here](https://github.com/rid17pawar/HospitalManagement/tree/master/databaseFiles%20and%20demoLoginCredentials/hospitaldb).
 <br> You can refer this video: https://youtu.be/9icY7xwXbJo
 
-5. You can then run this web-application on your Tomcat server. For login use the credentials provided in [this](https://github.com/rid17pawar/HospitalManagement/blob/master/databaseFiles%20and%20demoLoginCredentials/loginPasswordsForDemo.txt) file. (Select correct role and fill the Username and Password) 
+5. You can then run this web-application on your Tomcat server. For login use the credentials provided in [this](https://github.com/RavulaGani/HCL-HMS/blob/master/HospitalManagement-master/databaseFiles%20and%20demoLoginCredentials/loginPasswordsForDemo.txt) file. (Select correct role and fill the Username and Password) 
 <br> If you want to add more users just login as admin and choose 'add employee' option and fill all the details. It will create new employee with his own login credentials. The Aadhar no. will be the default password and Empid will be the username.
 
 ## Technologies Used-
