@@ -1,5 +1,4 @@
 # Hospital Management System
-## Welcome to the Saru Hospital Management System! 🏥
 
 This project is a comprehensive solution for managing hospital operations efficiently. The name "Saru Hospital" is inspired by my personal pet name, adding a touch of individuality to the project.
 
