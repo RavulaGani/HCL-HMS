@@ -7,11 +7,11 @@ This project is a comprehensive solution for managing hospital operations effici
    
    This project uses MYSQL as backend and is developed in Java so it provides features such as platform independence, high performance and security. It is a web application which mainly uses SpringMVC and Hibernate frameworks. 
 
-   It provides some enhanced features such as: an easy interface to add, remove employees as well as it provides PDF of prescription. Thus, reducing need to manually write and sign by doctor.
+   It provides some enhanced features such as: an easy interface to add, remove employees as well as it provides PDF of prescription.
+   Thus, reducing need to manually write and sign by doctor.
 
-PPT Presentation: click here
-Project SRS: click here
-Project Report: click here
+PPT Presentation: https://docs.google.com/presentation/d/12O4JND7Vz7FEPfNU1DNSMBKecxJa0vpS/edit?usp=sharing&ouid=113783014857513537585&rtpof=true&sd=true
+Project Report: https://drive.google.com/file/d/1svwSf74VZ-jWgaF-inNEAsDZlW08ESWK/view?usp=sharing
    
   
 ## Steps to configure this HMS web-application on your system:
