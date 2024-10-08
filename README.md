@@ -2,8 +2,6 @@
 
 This project is a comprehensive solution for managing hospital operations efficiently. The name "Saru Hospital" is inspired by my personal pet name, adding a touch of individuality to the project.
 
-### _YouTube Video Link: [https://youtu.be/SwE4mxQxhEI](https://youtu.be/SwE4mxQxhEI)_
-
 ## Description-
    In this Project we aim to solve the traditional issues of hospital management. The existing system provided paper based solution for keeping OPD records of patients and hospital staff, but it gives overload to Doctor, Receptionist and Administrator.  The main issues were inappropriate data keeping, time wastage in storage, retrieval also patients were unable to understand the prescription etc. These issues are solved by providing a separate user account for doctors and other staff. Keeping each patient’s data separate and track previous visits in a single click. 
    
