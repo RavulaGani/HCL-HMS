@@ -10,7 +10,7 @@ This project is a comprehensive solution for managing hospital operations effici
    It provides some enhanced features such as: an easy interface to add, remove employees as well as it provides PDF of prescription.
    Thus, reducing need to manually write and sign by doctor.
 
-PPT Presentation: https://docs.google.com/presentation/d/12O4JND7Vz7FEPfNU1DNSMBKecxJa0vpS/edit?usp=sharing&ouid=113783014857513537585&rtpof=true&sd=true
+PPT Presentation:Click Here (https://docs.google.com/presentation/d/12O4JND7Vz7FEPfNU1DNSMBKecxJa0vpS/edit?usp=sharing&ouid=113783014857513537585&rtpof=true&sd=true)
 Project Report: https://drive.google.com/file/d/1svwSf74VZ-jWgaF-inNEAsDZlW08ESWK/view?usp=sharing
    
   
