@@ -12,7 +12,7 @@ This project is a comprehensive solution for managing hospital operations effici
 
 ### PPT Presentation: [Click Here](https://docs.google.com/presentation/d/12O4JND7Vz7FEPfNU1DNSMBKecxJa0vpS/edit?usp=sharing&ouid=113783014857513537585&rtpof=true&sd=true)
 ### Project Report: [Click Here](https://drive.google.com/file/d/1svwSf74VZ-jWgaF-inNEAsDZlW08ESWK/view?usp=sharing)
-   
+### Demo Video: [Click Here](https://drive.google.com/file/d/1RmZr9KPw_Bmou72ku1COLgy8n0YnMBOv/view?usp=drivesdk)
   
 ## Steps to configure this HMS web-application on your system:
 
